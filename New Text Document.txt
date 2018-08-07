@@ -1,0 +1,16 @@
+Dear Students registered in IT444_Computer Vision,
+The Assignment to be delivered next week is "Hybrid Image". You can find the images needed in the following links:
+
+http://cs.brown.edu/courses/cs143/proj1a/cat.jpg
+http://cs.brown.edu/courses/cs143/proj1a/dog.jpg
+
+A) Hybrid Image:
+1- Sharpen one image (using derivatives of Gaussian Filter). 
+2- Smooth the other one (using Gaussian Filter).
+3- Add 2 images to get the Hybrid one.
+
+B) You should also make 3 RESIZED versions of the Hybrid image like the one in this link:
+
+http://cs.brown.edu/courses/cs143/proj1a/cat_hybrid_image_scales.jpg
+
+Thanks,
